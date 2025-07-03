@@ -5,10 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%7C+Python+Developer;Django+%7C+Flask+%7C+ML+%7C+Data+Analytics;Solving+Real+World+Problems+with+Code;Let's+Build+Smart+%26+Impactful+Solutions!" alt="Typing SVG" />
 </p>
-
-
 ---
-
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Data Science and AI projects**  
@@ -66,7 +63,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musthuthaq039/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musthuthaq039@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musthuthaqhassan1@gmail.com)
 
 ---
 
