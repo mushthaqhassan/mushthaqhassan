@@ -14,6 +14,7 @@
 - 💻 Full-stack experience using Django, Flask, and modern web tech  
 - 👟 Founder of [ByteKicks.in](https://bytekicks.in) – delivering style through tech  
 - 🚀 Exploring GenAI, cloud tools, and real-world AI applications
+- 📫 Reach me: `musthuthaqhassan1@gmail.com`  
 
 ---
 
@@ -50,14 +51,6 @@
 #### 🛠️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🧩 Fun Projects
-
-- 👟 **ByteKicks** – Online store for trendy shoes: [bytekicks.in](https://bytekicks.in)  
-- 🧠 AI + Web App – *Streamlit LLM PDF Generator, Change Detection Tool*  
-- 📊 Data Projects – EDA, prediction, dashboards, and more on real-world datasets  
-
----
 
 ### 📫 Let's Connect
 
