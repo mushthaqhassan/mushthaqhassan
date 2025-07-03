@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%7C+Python+Developer;Django+%7C+Flask+%7C+ML+%7C+Data+Analytics;Solving+Real+World+Problems+with+Code;Let's+Build+Smart+%26+Impactful+Solutions!" alt="Typing SVG" />
 </p>
 ---
+
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Data Science and AI projects**  
