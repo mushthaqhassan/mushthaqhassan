@@ -44,16 +44,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musthu039&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musthu039&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
 ### 🧩 Fun Projects
 
 - 👟 **ByteKicks** – Online store for trendy shoes: [bytekicks.in](https://bytekicks.in)  
