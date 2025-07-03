@@ -1,11 +1,11 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Musthu</h1>
+<h1 align="center">Hi 👋, I'm Mushthaq Hassan</h1>
 <h3 align="center">Aspiring Data Scientist | Python Developer | Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+Data+Science+%26+AI;Python+%7C+Django+%7C+Flask+%7C+Machine+Learning;Let's+Build+Something+Great+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%7C+Python+Developer;Django+%7C+Flask+%7C+ML+%7C+Data+Analytics;Solving+Real+World+Problems+with+Code;Let's+Build+Smart+%26+Impactful+Solutions!" alt="Typing SVG" />
 </p>
+
 
 ---
 
