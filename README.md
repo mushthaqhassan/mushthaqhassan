@@ -9,13 +9,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Data Science and AI projects**  
-- 🌱 Currently learning **LLMs, NLP, and Deep Learning**  
-- 🎯 Dream Job: **Data Scientist at a product-based company**  
-- 💼 Also building a business called **[ByteKicks.in](https://bytekicks.in)**  
-- 🧠 Strong in **Python, SQL, Pandas, Machine Learning, Django, Flask, HTML/CSS**  
-- 🧾 Love to work on **real-world problems, data insights, and web platforms**  
-- 📫 Reach me: `musthuthaq039@gmail.com`  
+- 🎯 Data Science enthusiast with a strong foundation in Python and analytics  
+- 🧠 Skilled in building ML models and interactive dashboards  
+- 💻 Full-stack experience using Django, Flask, and modern web tech  
+- 👟 Founder of [ByteKicks.in](https://bytekicks.in) – delivering style through tech  
+- 🚀 Exploring GenAI, cloud tools, and real-world AI applications
 
 ---
 
